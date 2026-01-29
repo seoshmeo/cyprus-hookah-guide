@@ -1,0 +1,7 @@
+# Cyprus Hookah Guide - robots.txt
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://cyprus-hookah-guide.vercel.app/sitemap.xml
