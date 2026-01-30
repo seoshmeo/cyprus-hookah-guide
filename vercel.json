@@ -55,6 +55,10 @@
     {
       "source": "/limassol",
       "destination": "/limassol/index.html"
+    },
+    {
+      "source": "/larnaca",
+      "destination": "/larnaca/index.html"
     }
   ]
 }
