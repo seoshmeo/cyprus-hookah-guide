@@ -59,6 +59,10 @@
     {
       "source": "/larnaca",
       "destination": "/larnaca/index.html"
+    },
+    {
+      "source": "/ayia-napa",
+      "destination": "/ayia-napa/index.html"
     }
   ]
 }

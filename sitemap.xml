@@ -3,7 +3,7 @@
   <!-- Main Pages -->
   <url>
     <loc>https://cyprus-hookah-guide.vercel.app/</loc>
-    <lastmod>2025-01-30</lastmod>
+    <lastmod>2025-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -21,66 +21,16 @@
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
-  <url>
-    <loc>https://cyprus-hookah-guide.vercel.app/limassol/cloud-nine-lounge.html</loc>
-    <lastmod>2025-01-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://cyprus-hookah-guide.vercel.app/limassol/sultans-palace.html</loc>
-    <lastmod>2025-01-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://cyprus-hookah-guide.vercel.app/limassol/mediterranean-smoke.html</loc>
-    <lastmod>2025-01-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://cyprus-hookah-guide.vercel.app/limassol/golden-ember.html</loc>
-    <lastmod>2025-01-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://cyprus-hookah-guide.vercel.app/limassol/blue-wave-shisha.html</loc>
-    <lastmod>2025-01-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://cyprus-hookah-guide.vercel.app/limassol/oriental-nights.html</loc>
-    <lastmod>2025-01-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://cyprus-hookah-guide.vercel.app/limassol/seaside-shisha-club.html</loc>
-    <lastmod>2025-01-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://cyprus-hookah-guide.vercel.app/limassol/royal-tobacco-house.html</loc>
-    <lastmod>2025-01-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://cyprus-hookah-guide.vercel.app/limassol/marina-hookah-bar.html</loc>
-    <lastmod>2025-01-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://cyprus-hookah-guide.vercel.app/limassol/old-town-smoke.html</loc>
-    <lastmod>2025-01-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+  <url><loc>https://cyprus-hookah-guide.vercel.app/limassol/cloud-nine-lounge.html</loc><lastmod>2025-01-29</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://cyprus-hookah-guide.vercel.app/limassol/sultans-palace.html</loc><lastmod>2025-01-29</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://cyprus-hookah-guide.vercel.app/limassol/mediterranean-smoke.html</loc><lastmod>2025-01-29</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://cyprus-hookah-guide.vercel.app/limassol/golden-ember.html</loc><lastmod>2025-01-29</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://cyprus-hookah-guide.vercel.app/limassol/blue-wave-shisha.html</loc><lastmod>2025-01-29</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://cyprus-hookah-guide.vercel.app/limassol/oriental-nights.html</loc><lastmod>2025-01-29</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://cyprus-hookah-guide.vercel.app/limassol/seaside-shisha-club.html</loc><lastmod>2025-01-29</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://cyprus-hookah-guide.vercel.app/limassol/royal-tobacco-house.html</loc><lastmod>2025-01-29</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://cyprus-hookah-guide.vercel.app/limassol/marina-hookah-bar.html</loc><lastmod>2025-01-29</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://cyprus-hookah-guide.vercel.app/limassol/old-town-smoke.html</loc><lastmod>2025-01-29</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 
   <!-- Larnaca -->
   <url>
@@ -89,22 +39,25 @@
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
+  <url><loc>https://cyprus-hookah-guide.vercel.app/larnaca/central-shisha-lounge.html</loc><lastmod>2025-01-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://cyprus-hookah-guide.vercel.app/larnaca/sea-joy.html</loc><lastmod>2025-01-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://cyprus-hookah-guide.vercel.app/larnaca/hookah-club-lounge.html</loc><lastmod>2025-01-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- Ayia Napa -->
   <url>
-    <loc>https://cyprus-hookah-guide.vercel.app/larnaca/central-shisha-lounge.html</loc>
-    <lastmod>2025-01-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://cyprus-hookah-guide.vercel.app/ayia-napa/</loc>
+    <lastmod>2025-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
-  <url>
-    <loc>https://cyprus-hookah-guide.vercel.app/larnaca/sea-joy.html</loc>
-    <lastmod>2025-01-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://cyprus-hookah-guide.vercel.app/larnaca/hookah-club-lounge.html</loc>
-    <lastmod>2025-01-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+  <url><loc>https://cyprus-hookah-guide.vercel.app/ayia-napa/oriental-home.html</loc><lastmod>2025-01-31</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://cyprus-hookah-guide.vercel.app/ayia-napa/hookahplace.html</loc><lastmod>2025-01-31</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://cyprus-hookah-guide.vercel.app/ayia-napa/priva-club.html</loc><lastmod>2025-01-31</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://cyprus-hookah-guide.vercel.app/ayia-napa/living-room.html</loc><lastmod>2025-01-31</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://cyprus-hookah-guide.vercel.app/ayia-napa/square-bar.html</loc><lastmod>2025-01-31</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://cyprus-hookah-guide.vercel.app/ayia-napa/ambassaden-bar.html</loc><lastmod>2025-01-31</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://cyprus-hookah-guide.vercel.app/ayia-napa/liquid-cafe.html</loc><lastmod>2025-01-31</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://cyprus-hookah-guide.vercel.app/ayia-napa/pepper-bar.html</loc><lastmod>2025-01-31</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://cyprus-hookah-guide.vercel.app/ayia-napa/river-rock.html</loc><lastmod>2025-01-31</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://cyprus-hookah-guide.vercel.app/ayia-napa/cafe-central.html</loc><lastmod>2025-01-31</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 </urlset>
