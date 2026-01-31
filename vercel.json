@@ -63,6 +63,10 @@
     {
       "source": "/ayia-napa",
       "destination": "/ayia-napa/index.html"
+    },
+    {
+      "source": "/nicosia",
+      "destination": "/nicosia/index.html"
     }
   ]
 }
