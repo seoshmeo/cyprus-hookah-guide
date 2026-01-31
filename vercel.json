@@ -67,6 +67,10 @@
     {
       "source": "/nicosia",
       "destination": "/nicosia/index.html"
+    },
+    {
+      "source": "/paphos",
+      "destination": "/paphos/index.html"
     }
   ]
 }
