@@ -71,6 +71,10 @@
     {
       "source": "/paphos",
       "destination": "/paphos/index.html"
+    },
+    {
+      "source": "/protaras",
+      "destination": "/protaras/index.html"
     }
   ]
 }
